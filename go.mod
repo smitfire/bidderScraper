@@ -10,7 +10,9 @@ require (
 	github.com/gocolly/colly v1.2.0
 	github.com/kennygrant/sanitize v1.2.4 // indirect
 	github.com/microcosm-cc/bluemonday v1.0.2
+	github.com/russross/blackfriday/v2 v2.0.1
 	github.com/saintfish/chardet v0.0.0-20120816061221-3af4cd4741ca // indirect
+	github.com/shurcooL/sanitized_anchor_name v1.0.0 // indirect
 	github.com/sirupsen/logrus v1.4.1
 	github.com/spf13/cobra v0.0.3
 	github.com/spf13/viper v1.3.2
